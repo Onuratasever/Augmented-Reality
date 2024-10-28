@@ -1,0 +1,1 @@
+C:\Users\onur\projects\UnityAr\ground_plane\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\554b241z\obj\armeabi-v7a
